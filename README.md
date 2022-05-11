@@ -4,7 +4,9 @@ This is an exercise to construct a navigation bar in TypeScript using the princi
 
 The navigation bar itself and the items in the navigation bar are all objects. They share abstract properties and are all extensions of the same abstract class.
 
-For an example implementation of this navigation bar, see [OOP Navigation Bar](https://jsfiddle.net/manototh/3nat2L5o/12/) on JSFiddle.
+For an example implementation of this navigation bar, see [OOP Navigation Bar](https://jsfiddle.net/manototh/3nat2L5o/15/) on JSFiddle.
+
+*I coded this project as part of a [Follow the Pattern](https://followthepattern.net/learn) course.*
 
 ## Creating your navigation bar
 
@@ -18,6 +20,6 @@ To create your navigation bar, follow these steps:
 6. Call the `Render` method of the `NavBar` object. This returns the rendered HTML elements. Add the return value to the DOM with a standard JavaScript method like `append`.
 7. Compile the TypeScript code with a tool like Node.js.
 8. Link the compiled Javascript code in the header of the HTML file where you want to add the navigation bar.
-9. In the HTML file, load the Foundation framework. For more information, see the (Foundation documentation)[https://get.foundation/sites/docs/installation.html].
+9. In the HTML file, load the Foundation framework. For more information, see the [Foundation documentation](https://get.foundation/sites/docs/installation.html).
 
 As a result, you have created your navigation bar.

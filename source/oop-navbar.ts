@@ -125,7 +125,7 @@ class NavBar extends NavBarParentItem {
     }
 }
 
-//Specify the properties and the items of the navigation bar. See the example below, and replace it with your own code.
+// Specify the properties and the items of the navigation bar. See the example below, and replace it with your own code.
 let navBar = new NavBar("OOP Navigation Bar");
 let home = new NavBarItem(navBar, "Home");
 let shop = new NavBarItem(navBar, "Shop");
@@ -138,5 +138,5 @@ let workAddress = new NavBarItem(address, "Work Address");
 let otherAddress = new NavBarItem(address, "Other Address");
 navBar.SetItems([home, shop, about, email, phone, address, homeAddress, workAddress, otherAddress]);
 
-//Render the navigation bar and add it to the DOM. See the example below, and replace it with your own code.
+// Render the navigation bar and add it to the DOM. See the example below, and replace it with your own code.
 document.querySelector("#navbar")?.append(navBar.Render());
