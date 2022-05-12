@@ -1,4 +1,4 @@
-# oop-navbar
+# An object-oriented way to construct a navigation bar in TypeScript
 
 This is an exercise to construct a navigation bar in TypeScript using the principles of object-oriented programming (OOP).
 
