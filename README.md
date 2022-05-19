@@ -12,7 +12,7 @@ For an example implementation of this navigation bar, see [OOP Navigation Bar](h
 
 To create your navigation bar, follow these steps:
 
-1. Create a copy of the file `source\oop-navbar.ts`, and open it with your text editor.
+1. Create a copy of the file `source/oop-navbar.ts`, and open it with your text editor.
 2. At the bottom of the file, delete the example.
 3. Create a `NavBar` object, specifying the title of the navigation bar in a string-type parameter.
 4. Create a `NavBarItem` object for each item in your navigation bar. Each `NavBarItem` object has two parameters. The first parameter is the parent item which must be another `NavBarItem` object. The second parameter is a string which specifies the text displayed in the navigation bar item. For the first level of items, the parent item is the navigation bar itself (the `NavBar` object).
