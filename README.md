@@ -4,7 +4,7 @@ This is an exercise to construct a navigation bar in TypeScript using the princi
 
 The navigation bar itself and the items in the navigation bar are all objects. They share abstract properties and are all extensions of the same abstract class.
 
-For an example implementation of this navigation bar, see [OOP Navigation Bar](https://jsfiddle.net/manototh/3nat2L5o/15/) on JSFiddle.
+For an example implementation of this navigation bar, see [OOP Navigation Bar](https://jsfiddle.net/manototh/3nat2L5o/) on JSFiddle.
 
 *I coded this project as part of a [Follow the Pattern](https://followthepattern.net/learn) course.*
 
